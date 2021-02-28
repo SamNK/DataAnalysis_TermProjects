@@ -1,2 +1,2 @@
 # DataAnalysis_TermProjects
-DataAnalysis_TermProjects
+Assignements done in Data Analysis Course 
